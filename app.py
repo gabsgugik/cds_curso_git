@@ -4,6 +4,7 @@ from src.extraction import load_data
 
 st.set_page_config(layout="wide")
 
+
 def create_dataframe_section(df):
     st.title("Database Section")
 
